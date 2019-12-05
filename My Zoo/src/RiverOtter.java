@@ -11,7 +11,7 @@ public class RiverOtter extends MammalAnimals
 	
 	public RiverOtter()
 		{
-			type = "RiverOther";
+			type = "RiverOtter";
 			food = "Brook Trout";
 		}
 
